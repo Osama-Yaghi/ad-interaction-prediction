@@ -8,6 +8,7 @@ The notebook explores how preprocessing, model architecture, and evaluation metr
 - **label_landing** – whether the user lands on the advertiser’s site or completes a purchase  
 
 Accurate prediction of these events is crucial for improving **ad placement**, **user experience**, and **advertising revenue optimization**.  
+This work was carried out during the **Data Science Summer School at Teads**, where participants explored applied machine learning techniques for online advertising and user engagement.  
 
 ---
 
