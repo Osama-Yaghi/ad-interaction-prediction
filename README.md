@@ -27,7 +27,7 @@ Notebook workflow:
 ## Data Availability
 
 ⚠️ Important: The datasets used in this project are not included in this repository due to size and confidentiality constraints.
-To run the notebook, you must provide your own dataset with similar structure (user interactions with ads, containing view, click, and landing labels).
+To run the notebook, you must provide your own dataset with similar structure (user interactions with ads, containing categorical features and view, click, and landing labels).
 
 ## License
 This project is released under the MIT License.
